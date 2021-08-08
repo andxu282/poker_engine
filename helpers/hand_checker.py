@@ -1,6 +1,7 @@
+"""
+A set of methods that checks a hand with a list of five cards.
+"""
 from helpers.constants import card_dict, straight_list
-
-
 def compare_cards(card):
     return card_dict[card.rank.get_rank()]
 

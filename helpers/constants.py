@@ -1,3 +1,6 @@
+"""
+Dictionaries to compare ranks and translate cards into strings.
+"""
 card_dict = {
     "A": 14,
     "K": 13,
