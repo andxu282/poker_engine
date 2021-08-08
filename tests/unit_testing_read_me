@@ -1,0 +1,18 @@
+To create unit tests:
+1. "import unittest" at the top of the file
+2. Create a class that inherits from unittest.TestCase like
+"class TestHandChecker(unittest.TestCase):"
+3. Create methods that assertEquals()/True()/False(), etc. These are the test cases
+4. Add the line below:
+    "if __name__ == '__main__':
+        unittest.main()"
+
+To run unit tests:
+1. Open a terminal to the poker_engine directory
+2. Run "python -m unittest tests.<test_file_name>"
+3. The command line outputs the number of tests passed and the number failed/went to error.
+
+For more info, look at the unittest module documentation
+https://docs.python.org/3/library/unittest.html
+
+You can also take a look at hand_checker_tests.py, which is working.
