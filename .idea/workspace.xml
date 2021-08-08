@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f40193a-58e3-4d3c-a771-6244e34fa65d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/helpers/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/helpers/constants.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helpers/hand_checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/helpers/hand_checker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/probabilities.py" beforeDir="false" afterPath="$PROJECT_DIR$/probabilities.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
